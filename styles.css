@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+
+body{
+  background: #eeeeee;
+}
+section
+{
+  padding: 100px;
+}
+
+#more {display: none;}
+
+.banner
+{
+  position: relative;
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.banner h2
+{
+  font-size: 3em;
+  color:#000;
+  font-weight: 500;
+  line-height: 1.5em;
+}
+.banner h2 span
+{
+  font-size: 1.5em;
+  font-weight: 580;
+}
+.banner h3
+{
+  font-size: 1.5em;
+  color: #000;
+  font-weight: 500;
+}
+.btn
+{
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.navh1{
+    line-height: 1;
+    font-weight: 100;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 30px;
+  }
+.about{
+  background: #eeeeee;
+}
+.heading
+{
+  width: 100%;
+  text-align: center;
+  margin-bottom: 40px;
+  color: #111;
+}
+
+.heading h2{
+  margin-bottom: 100px;
+}
+
+
+.contentbody h3
+{
+  font-size: 24px;
+  margin-bottom: 50px;
+}
+
+.contentpara
+{
+  letter-spacing: 1px;
+  font-size: 20px;
+}
+
+ .img
+{
+  width: 100%;
+  height:100%;
+}
+
+
+
+
+.projects
+{
+  padding: 3% 5%;
+}
+
+
+.contact{
+  background: #eaeaea;
+  margin-bottom: -100px;
+}
+.footer-links{
+  background: #eaeaea;
+  text-align: center;
+}
+.social-icon {
+   margin-top: 20px;
+   margin-bottom: 10px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+
+.anchors,.anchors:hover
+{
+  color: inherit;
+
+}
